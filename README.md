@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+youtube-search
+==============
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+> A react app to show week days
 
-###Getting Started###
+# Motivation
+This app was taken from **Modern React with Redux** course from [Udemy] [https://www.udemy.com/courses/]
 
-There are two methods for getting started with this repo.
+# Technologies
+React Native
+ES2015
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
+# Build and Run
+```sh
 	> npm install
 	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+```sh
